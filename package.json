@@ -1,0 +1,29 @@
+{
+  "name": "koa-mongoose",
+  "version": "1.0.0",
+  "description": "Rest API example using koa and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvalexandre/koa-mongoose.git"
+  },
+  "keywords": [
+    "koa",
+    "mongoose",
+    "koa",
+    "async",
+    "koa",
+    "await",
+    "rest",
+    "api"
+  ],
+  "author": "Alexandre Silva <contato@silvalexandre.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silvalexandre/koa-mongoose/issues"
+  },
+  "homepage": "https://github.com/silvalexandre/koa-mongoose#readme"
+}
