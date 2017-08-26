@@ -13,9 +13,7 @@
   "keywords": [
     "koa",
     "mongoose",
-    "koa",
     "async",
-    "koa",
     "await",
     "rest",
     "api"
@@ -25,5 +23,15 @@
   "bugs": {
     "url": "https://github.com/silvalexandre/koa-mongoose/issues"
   },
-  "homepage": "https://github.com/silvalexandre/koa-mongoose#readme"
+  "homepage": "https://github.com/silvalexandre/koa-mongoose#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-compress": "^2.0.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.0.1",
+    "koa-route": "^3.2.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.8"
+  }
 }
